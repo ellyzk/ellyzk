@@ -1,6 +1,6 @@
 <div align="center">
 
-# ୨୧ Olá, eu sou a Ellyz! 🦢
+# ୨୧ Olá, eu sou a Elly! 🦢
 
 *₊˚⊹♡ Uma garota explorando o mundo da tecnologia ♡⊹˚₊*
 
