@@ -1,6 +1,6 @@
 <div align="center">
 
-# ୨୧ Olá, eu sou a Elly! 🦢
+# ୨୧ Olá, eu sou a Elly! 
 
 *₊˚⊹♡ Uma garota explorando o mundo da tecnologia ♡⊹˚₊*
 
@@ -8,18 +8,18 @@
 
 </div>
 
-### 🩰 ୨୧ Sobre mim
+###  ୨୧ Sobre mim
 
-- 🪞 **Atualmente trabalhando em:** Projetos pessoais e atividades escolares.
-- 🧁 **Aprendendo no momento:** Desenvolvimento de Sistemas, Inteligência Artificial na TI e Lógica de Programação.
-- 🕊️ **Buscando colaborar em:** Projetos escolares, grupos de estudos e primeiros projetos Open Source.
-- 📖 **Pode me perguntar sobre:** Lógica de programação para iniciantes e curiosidades sobre IA.
-- 💌 **Contato:** ellyzk@email.com
-- 🍓 **Curiosidade:** Amo comer doces enquanto resolvo bugs!
+-  **Atualmente trabalhando em:** Projetos pessoais e atividades escolares.
+-  **Aprendendo no momento:** Desenvolvimento de Sistemas, Inteligência Artificial na TI e Lógica de Programação.
+-  **Buscando colaborar em:** Projetos escolares, grupos de estudos e primeiros projetos Open Source.
+-  **Pode me perguntar sobre:** Lógica de programação para iniciantes e curiosidades sobre IA.
+-  **Contato:** ellyzk@email.com
+-  **Curiosidade:** Amo comer doces enquanto resolvo bugs!
 
 ---
 
-### 🎀 ୨୧ Meu cantinho tecnológico
+###  ୨୧ Meu cantinho tecnológico
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -30,7 +30,7 @@
 
 ---
 
-### 🕯️ Estatísticas do GitHub
+###  Estatísticas do GitHub
 
 <div align="center">
 
@@ -46,7 +46,7 @@
 
 *♡ Aprendendo, criando e evoluindo uma linha de código por vez.*
 
-**Obrigada pela visita!** 🎀
+**Obrigada pela visita!** 
 
 ୨୧ ─────────────── ୨୧
 
